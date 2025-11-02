@@ -1,10 +1,10 @@
 ##  Global Chocolate Sales Dashboard (Power BI)
-Overview
+# Overview
 
 This project visualizes global chocolate sales performance using Power BI.
 It provides insights into total sales, profit, growth, and brand performance across various product categories and regions.
 
-Key Objectives
+# Key Objectives
 
 Analyze total and monthly chocolate sales
 
@@ -14,7 +14,7 @@ Visualize profit margins and category-wise distribution
 
 Track sales growth and regional performance
 
-Dashboard Features
+# Dashboard Features
 Feature	Description
 KPI Cards	Total Sales, Total Profit, Profit Margin %, Sales Growth %
 Bar Chart	Top-selling chocolates
@@ -23,7 +23,7 @@ Donut Chart	Product category distribution
 Bar Chart	Profit margin by brand
 Slicers	Filters for Year, Region, Brand, Month, and Type
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI Desktop
 
@@ -33,13 +33,13 @@ DAX (for custom measures)
 
 Data Cleaning & Preparation in Excel
 
-Dataset
+# Dataset
 
 Dataset: Chocolate_Sales_Dataset.csv
 Contains fields like:
 Date, Month, Brand, Type, Region, Sales, Profit, Quantity, etc.
 
-Key Insights
+# Key Insights
 
 Dark Bliss emerged as the top-selling chocolate with 25K sales.
 
@@ -48,6 +48,6 @@ The profit margin across brands averaged 14.5%.
 Sales showed steady performance throughout the year with a small growth of 0.29%.
 
 
-🏷️ Tags
+# Tags
 
 #PowerBI #DataAnalytics #Dashboard #ChocolateSales #BusinessIntelligence #DataVisualization
