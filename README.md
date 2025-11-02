@@ -49,6 +49,6 @@ The profit margin across brands averaged 14.5%.
 Sales showed steady performance throughout the year with a small growth of 0.29%.
 
 
-# Tags
+
 
 #PowerBI #DataAnalytics #Dashboard #ChocolateSales #BusinessIntelligence #DataVisualization
